@@ -1,0 +1,7 @@
+﻿  Code.cpp
+D:\C++ Kuliah\Kalkulator Sederhana\Kalkulator Sederhana\Code.cpp(29,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Kalkulator Sederhana\Kalkulator Sederhana\Code.cpp(32,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Kalkulator Sederhana\Kalkulator Sederhana\Code.cpp(35,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Kalkulator Sederhana\Kalkulator Sederhana\Code.cpp(38,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Kalkulator Sederhana\Kalkulator Sederhana\Code.cpp(41,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Kalkulator Sederhana.vcxproj -> D:\C++ Kuliah\Kalkulator Sederhana\x64\Debug\Kalkulator Sederhana.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70ca9808-de70-4fdb-9f02-6d649bde7ba0": {
+      "ProjectGuid": "70ca9808-de70-4fdb-9f02-6d649bde7ba0",
+      "DisplayName": "Kalkulator Sederhana",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
